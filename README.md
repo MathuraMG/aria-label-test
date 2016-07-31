@@ -16,28 +16,28 @@
     <td>**Safari**</td>
     <td>**N/A**</td>
     <td>**N/A**</td>
-    <td style="color:green">Supported</td>
+    <td>:white_check_mark:</td>
     <td>**N/A**</td>
   </tr>
   <tr>
     <td>**Chrome**</td>
-    <td style="color:green">Supported</td>
-    <td style="color:green">Supported</td>
-    <td style="color:green">Supported</td>
-    <td style="color:green">Supported</td>
+    <td>:white_check_mark:</td>
+    <td>:white_check_mark:</td>
+    <td>:white_check_mark:</td>
+    <td>:white_check_mark:</td>
   </tr>
   <tr>
     <td>**IE 11**</td>
-    <td style="color:green">Supported</td>
-    <td style="color:green">Supported</td>
+    <td>:white_check_mark:</td>
+    <td>:white_check_mark:</td>
     <td>**N/A**</td>
     <td>**N/A**</td>
   </tr>
   <tr>
     <td>**Firefox**</td>
-    <td style="color:green">:white_check_mark:</td>
-    <td style="color:red">:x:</td>
-    <td style="color:green">Supported</td>
+    <td>:white_check_mark:</td>
+    <td>:x:</td>
+    <td>:white_check_mark:</td>
     <td>**N/A**</td>
   </tr>
   <tr>
