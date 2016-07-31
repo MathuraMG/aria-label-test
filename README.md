@@ -35,8 +35,8 @@
   </tr>
   <tr>
     <td>**Firefox**</td>
-    <td style="color:green">Supported</td>
-    <td style="color:red">NOT Supported</td>
+    <td style="color:green">:white_check_mark:</td>
+    <td style="color:red">:x:</td>
     <td style="color:green">Supported</td>
     <td>**N/A**</td>
   </tr>
