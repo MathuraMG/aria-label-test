@@ -5,11 +5,25 @@
     <title>aria-label test</title>
   </head>
   <body>
-
-    <button aria-label="Cat button" onClick="document.getElementById('content').innerHTML='Meow';">
-      <img src="https://placekitten.com/200/200"/>
+    <h2> Button with Image </h2>
+    <button aria-label="Cat button" onClick="document.getElementById('content-1').innerHTML='Meow';">
+      <img src="https://placekitten.com/200/200" alt="Cat alternate"/>
     </button>
-    <div id="content"></div>
+    <div id="content-1"></div>
+
+    <h2> Button with Image </h2>
+    <button aria-label="Circle SVG button" onClick="document.getElementById('content-2').innerHTML='Circle';">
+      <svg width="200" height="200" alt="Circle SVG alternate">
+        <title>Circle SVG title</title>
+      <circle
+        cx="100"
+        cy="100"
+        r="80"
+        fill="grey"
+      />
+    </svg>
+    </button>
+    <div id="content-2"></div>
 
   </body>
 </html>
