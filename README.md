@@ -21,23 +21,23 @@
   </tr>
   <tr>
     <td>**Chrome**</td>
-    <td></td>
-    <td></td>
+    <td style="color:green">Supported</td>
+    <td style="color:green">Supported</td>
     <td style="color:green">Supported</td>
     <td style="color:green">Supported</td>
   </tr>
   <tr>
     <td>**IE 11**</td>
-    <td></td>
-    <td></td>
+    <td style="color:green">Supported</td>
+    <td style="color:green">Supported</td>
     <td>**N/A**</td>
     <td>**N/A**</td>
   </tr>
   <tr>
     <td>**Firefox**</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td style="color:green">Supported</td>
+    <td style="color:red">NOT Supported</td>
+    <td style="color:green">Supported</td>
     <td>**N/A**</td>
   </tr>
   <tr>
@@ -49,3 +49,6 @@
   </tr>
 
 </table>
+
+* JAWS does not announce oick - only says 'space' or 'enter' ( nothing to do with the aria- label, a feature of button)
+* [NVDA FF not working](https://github.com/nvaccess/nvda/issues/6209)
